@@ -1,0 +1,12 @@
+{
+  "name": "SAP Links",
+  "description": "SAP Links is a open-source project. Right click SAP Note/KBA # and click context menu to navigate to the Note/KBA.",
+  "author": "Muhammad Ilyas",
+  "homepage_url": "https://people.sap.com/muhammad.ilyas/",
+  "version": "1.0",
+  "permissions": ["contextMenus"],
+  "background": {
+    "scripts": ["sap.js"]
+  },
+  "manifest_version": 2
+}
