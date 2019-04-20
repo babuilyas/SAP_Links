@@ -5,6 +5,4 @@ The project will provide browser extensions to help user find alternate links fo
 
 This is my first browser extension initiative fairly due to broken links! I appreciate the community to complement the project with their expertise in the browser extension development for major browsers.
 
-Good Luck.
-
-The project is closed.
+Good bye.
